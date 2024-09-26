@@ -87,6 +87,15 @@ a.button.button--primary::after {
   display: none;
 }
 
+.card__inner.color-scheme-2.gradient.ratio {
+    width: 221px !important;
+    height: 200px !important;
+}
+
+
+
+
+
 .rich-text__blocks.center p.rich-text__caption {
     font-size: 16px;
     font-family: 'Race_Sport';
