@@ -92,7 +92,13 @@ a.button.button--primary::after {
     height: 200px !important;
 }
 
-
+div#shopify-section-sections--17740565545100__shogun_custom_html_cAm9An {
+    background: #00205b;
+    height: 410px;
+    margin: 0 !important;
+    width: 100%;
+    padding: 100px 0 0 0;
+}
 
 
 
