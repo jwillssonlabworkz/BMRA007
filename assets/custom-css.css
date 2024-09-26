@@ -414,7 +414,7 @@ div#shopify-section-template--17671691075724__video_banner_wq39MU .page-width {
     display: flex;
     gap: 70px;
     justify-content: center;
-    max-width: 1130px;
+    max-width: 1310px;
     margin: 0 auto;
 }
 
@@ -437,18 +437,18 @@ div#shopify-section-sections--17671691534476__shogun_custom_html_cAm9An {
 }
 
 .section.update {
-    width: 37%;
+    width: 33%;
   text-align: justify;
 }
 
 .section.links {
-  width: 20%;
+  width: 27%;
   text-align: justify;
   
 }
 
 .section.basecamp {
-    width: 30%;
+    width: 27%;
     text-align: justify;
 }
 
