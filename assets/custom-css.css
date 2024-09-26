@@ -100,7 +100,7 @@ a.button.button--primary::after {
 
 div#shopify-section-sections--17740565545100__shogun_custom_html_cAm9An {
     background: #00205b;
-    height: 450px;
+    height: 530px;
     margin: 0 !important;
     width: 100%;
     padding: 100px 0 0 0;
@@ -414,7 +414,7 @@ div#shopify-section-template--17671691075724__video_banner_wq39MU .page-width {
     display: flex;
     gap: 70px;
     justify-content: center;
-    max-width: 1420px;
+    max-width: 1130px;
     margin: 0 auto;
 }
 
@@ -437,12 +437,12 @@ div#shopify-section-sections--17671691534476__shogun_custom_html_cAm9An {
 }
 
 .section.update {
-    width: 35%;
+    width: 37%;
   text-align: justify;
 }
 
 .section.links {
-  width: 25%;
+  width: 20%;
   text-align: justify;
   
 }
