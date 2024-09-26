@@ -1,0 +1,572 @@
+.banner__content.banner__content--middle-center {
+  align-items: center;
+  justify-content: left;
+}
+
+.banner__box.content-container.content-container--full-width-mobile.color-scheme-3.gradient {
+  max-width: 100% !important;
+}
+
+h2.banner__heading.inline-richtext.h0 {
+  font-family: "Race_Sport";
+  font-size: 57px;
+  color: #00205b;
+}
+
+.banner__text.rte.body p {
+  width: 75%;
+  color: #00205b;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 400;
+}
+
+.banner__buttons a {
+  background: #990000;
+  border: none;
+  border-radius: 25px;
+  font-family: "Race_Sport";
+  color: #fff;
+}
+
+.banner__buttons a::after {
+  display: none !important;
+}
+
+header.header.header--middle-left.header--mobile-center.page-width.header--has-menu.header--has-account {
+  display: flex;
+  justify-content: space-around;
+  background: transparent;
+}
+
+div#Banner-template--17671691075724__image_banner {
+  margin: -95px 0 0 0;
+}
+
+.header-wrapper.color-scheme-1.gradient.header-wrapper--border-bottom {
+  background: transparent;
+}
+
+ul.list-menu.list-menu--inline li a {
+  color: #00205b;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+p.image-with-text__text.image-with-text__text--caption {
+  font-family: "Race_Sport";
+  color: #990000;
+}
+
+h2.image-with-text__heading.inline-richtext.h1 {
+  font-family: "Race_Sport";
+  font-size: 41px;
+  color: #00205b;
+}
+
+.image-with-text__text.rte.body p {
+  color: #00205b;
+  line-height: 25px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+a.button.button--primary {
+  background: #990000;
+  border: none;
+  border-radius: 25px;
+  font-family: "Race_Sport";
+  color: #fff;
+}
+
+a.button.button--primary::after {
+  border: none;
+}
+
+a.button.button--primary::after {
+  display: none;
+}
+
+.rich-text__blocks.center p.rich-text__caption {
+    font-size: 16px;
+    font-family: 'Race_Sport';
+    color: #990000;
+}
+
+h2.rich-text__heading.rte.inline-richtext.h1.scroll-trigger.animate--slide-in {
+    font-size: 41px;
+    font-family: 'Race_Sport';
+    color: #00205B;
+}
+
+.rich-text__text.rte.scroll-trigger.animate--slide-in p {
+    font-size: 14px;
+    color: #00205B;
+    line-height: 24px;
+}
+
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+.card {
+  width: 24%;
+  height: 250px;
+  position: relative;
+  background-color: #f2f2f2;
+}
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.card .content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    color: #fff;
+    height: 115px;
+    background: linear-gradient(63deg, rgba(0,32,91,0.56) 22%, rgba(191,13,62,0.5606617647058824) 86%);
+}
+.card .content h2 {
+  margin-bottom: 5px;
+}
+.card .content p {
+  font-size: 12px;
+}
+.date {
+    position: absolute;
+    top: 0px;
+    left: 0;
+    padding: 5px 10px;
+    border-radius: 0;
+    background: linear-gradient(63deg, rgba(0, 32, 91, 1) 22%, rgba(191, 13, 62, 1) 86%);
+    clip-path: polygon(0 0, 100% 0, 87% 100%, 0% 100%);
+}
+
+
+.date p {
+    margin: 0;
+    color: #fff;
+    text-align: center;
+    padding: 4px 6px 0 0;
+    font-family: 'Race_Sport';
+    font-size: 12px;
+}
+
+
+.content h2 {
+    color: #fff;
+    font-family: 'Race_Sport';
+    font-size: 14px;
+}
+
+.content p {
+    font-size: 10px !important;
+}
+
+
+ul#Slider-template--17671691075724__featured_collection_bDC48k li .card.card--standard.card--media {
+    width: 94%;
+}
+
+.card__information {
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 10px 10px 10px !important;
+  background: linear-gradient(63deg, #00205b 22%, #bf0d3e 86%);
+  color:#fff;
+}
+
+.card__information h3 a {
+    color: #fff;
+    justify-content: space-between;
+    font-family: 'Race_Sport';
+    width: 140px;
+}
+
+span.price-item.price-item--regular {
+    font-size: 12px;
+    font-family: 'Race_Sport';
+  color:#fff;
+}
+
+div#ImageWithText--template--17671691075724__image_with_text_AzALRQ h2.image-with-text__heading {
+    font-size: 31px;
+}
+
+.banner__box.content-container.content-container--full-width-mobile h2.banner__heading.inline-richtext.h1 {
+    color: #00205B;
+    font-size: 53px;
+    font-family: 'Race_Sport';
+    -webkit-text-stroke: 1px #fff;
+}
+
+.banner__text.rte.subtitle p {
+    color: #fff;
+}
+
+div#ImageWithText--template--17671691075724__image_with_text_AzALRQ {
+    padding: 60px 0 0 49px;
+}
+
+.ejEfjK {
+
+  width: 50%;
+  
+}
+
+
+.ejEfjK span {
+    font-family: 'Race_Sport' !important;
+    font-size: 40px !important;
+}
+
+.Card__CardTitle-sc-1qmq8g6-4.itPTGU {
+    font-family: 'Race_Sport';
+    line-height: 19px;
+    font-size: 16px;
+    width: 70%;
+    color: #00205b !important;
+}
+
+.iATTRJ {
+    display: flex;
+    flex-direction: revert;
+    color: rgb(17, 17, 17);
+    align-items: center;
+}
+
+
+.gAFIFc {
+    width: calc(30% - 20px);
+    justify-content: center;
+    align-items: center;
+}
+
+.GridProvider__Component-sc-12k1adw-0.ePgbSO {
+    width: 100%;
+    max-width: 100%;
+}
+
+.jWZvsK {
+   width: 50% !important;
+}
+
+
+.iGIXze {
+    max-width: 1300px !important;
+    margin: 0px auto !important;
+    z-index: 1;
+    position: relative;
+    width: 100% !important;
+}
+
+.ePgbSO {
+
+    flex-wrap: nowrap !important;
+}
+
+.right-side h1.text {
+    font-family: 'Race_Sport';
+    font-size: 33px;
+    color: #00205b;
+    margin-top: 0;
+}
+
+.right-side p.text-pragraph {
+    color: #00205b !important;
+    line-height: 25px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+div#shopify-section-template--17671691075724__shogun_custom_html_Jg4qag {
+    padding: 60px 0 60px 0;
+}
+
+#shopify-section-template--17671691075724__shogun_custom_html_Jg4qag .container {
+    display: flex;
+}
+
+.container {}
+
+.container .left-side, .container .right-side {width: 37%;}
+
+.container .right-side {
+}
+
+.container .right-side .header {
+    padding: 0 0 0px 0;
+    font-size: 14px;
+    font-family: 'Race_Sport';
+    display: flex;
+   color:#900 !important;
+}
+
+h3.main-skill-title {
+    font-family: 'Race_Sport';
+    color: #00205b;
+    margin-bottom: 0px;
+}
+
+.main-progress {
+    width: 100%;
+    border: 1px solid;
+    height: 11px;
+}
+
+.inside-pro-bar-92 {
+    width: 92%;
+    height: 10px;
+    background: linear-gradient(63deg, #00205b 22%, #bf0d3e 86%);
+}
+
+.inside-pro-bar-75 {
+    width: 75%;
+    height: 10px;
+    background: linear-gradient(63deg, #00205b 22%, #bf0d3e 86%);
+}
+
+.inside-pro-bar-87 {
+    width: 87%;
+    height: 10px;
+    background: linear-gradient(63deg, #00205b 22%, #bf0d3e 86%);
+}
+
+h3.bar-presentag {
+    font-family: 'Race_Sport';
+    color: #00205b;
+    width: 100%;
+    text-align: end;
+    margin: 3px 0;
+}
+
+
+p.product__text.inline-richtext.caption-with-letter-spacing {
+    display: none !important;
+}
+
+.inside-pro-bar-92, .inside-pro-bar-75, .inside-pro-bar-87 {
+    animation: progressAnimationStrike 3s;
+}
+
+@keyframes progressAnimationStrike{
+
+     from { width: 0 }
+     to   { width: max-width }
+}
+
+
+
+
+
+
+.banner__box.content-container.content-container--full-width-mobile.color-scheme-3.gradient {
+    background: transparent;
+    text-align: left;
+}
+
+div#shopify-section-template--17671691075724__video_banner_wq39MU .page-width {
+    position: relative;
+}
+
+.custom-liquid-content {
+    position: absolute;
+    top: 25%;
+    left: 5%;
+}
+
+
+.container {
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    max-width: 1130px;
+    margin: 0 auto;
+}
+
+
+
+div#shopify-section-sections--17671691534476__shogun_custom_html_cAm9An {
+    width: 100%;
+    background: #00205b;
+    padding: 70px 0 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.section.links h2, .section.basecamp h2 {
+    color: #fff;
+    font-family: 'Race_Sport';
+    margin: 0;
+    font-size: 17px;
+}
+
+.section.update {
+    width: 37%;
+  text-align: justify;
+}
+
+.section.links {
+  width: 20%;
+  text-align: justify;
+  
+}
+
+.section.basecamp {
+    width: 30%;
+    text-align: justify;
+}
+
+
+.section.update h1 {
+    color: #fff;
+    font-family: 'Race_Sport';
+    margin: 0;
+}
+
+
+
+a.button.button--primary svg {
+    width: 20px;
+    height: 20px;
+    padding: 0 0 0 10px;
+}
+
+
+.section.links ul li a svg {
+    width: 15px;
+    height: 15px;
+  margin: 0px 10px 0 0px;
+  
+}
+
+.section.basecamp ul li a svg, .section.basecamp ul li svg {
+    width: 15px;
+    height: 15px;
+  margin: 0px 10px 0 0px;
+  
+}
+
+.container ul li {
+    list-style: none;
+    padding: 10px 0 0 0px;
+}
+
+
+.container ul {
+    padding: 0;
+}
+
+.section.update p {
+    color: #fff;
+    line-height: 26px;
+    font-size: 15px;
+}
+
+
+.container ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.container ul li p {
+    color: #fff;
+}
+
+.main-outer {
+    width: 360px;
+    background: #fff;
+    padding: 6px 10px 7px;
+    border-radius: 32px;
+}
+
+.main-outer input[type="text"] {
+    padding: 10px 20px;
+    border: none;
+    width: 223px;
+    border-radius: 25px;
+}
+
+.main-outer button {
+    padding: 11px 20px 10px 20px;
+    border-radius: 25px;
+    border: 0;
+    background: #900;
+    color: #fff;
+    font-family: 'Race_Sport';
+   cursor:pointer;
+}
+
+
+.footer-main-soc {
+    width: 100%;
+    max-width: 1120px;
+    margin: 0 auto;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+h2.shopbnb-text-header.shopbnb-text-6xl.shopbnb-font-bold.shopbnb-text-center.shopbnb-mb-6.undefined {
+    font-family: Race_Sport;
+    font-size: 37px;
+    color: #00205b;
+    padding: 20px 0 40px 0;
+}
+
+
+.shopbnb-w-full.shopbnb-flex-shrink-0.shopbnb-relative.shopbnb-group img {
+    height: 220px;
+    border-radius:0;
+}
+
+.shopbnb-w-full.shopbnb-flex.shopbnb-justify-center.shopbnb-aspect-square.shopbnb-listing-carousel-container {
+    height: 220px;
+}
+
+
+.shopbnb-grid.shopbnb-grid-cols-1.sm\:shopbnb-grid-cols-2.md\:shopbnb-grid-cols-3.lg\:shopbnb-grid-cols-3.shopbnb-gap-4 a {
+    background: linear-gradient(63deg, #00205b 22%, #bf0d3e 86%);
+    padding: 0 0 18px 0px;
+}
+
+h6.shopbnb-text-header.shopbnb-text-2xl.shopbnb-font-medium.shopbnb-my-0.shopbnb-listing-title.\!shopbnb-font-medium {
+    color: #fff;
+    padding: 0 0 0 20px;
+    font-family: 'Race_Sport';
+    font-size: 19px;
+}
+
+
+
+p.shopbnb-listing-price.shopbnb-text-body.shopbnb-flex.shopbnb-items-center, h5.shopbnb-text-4xl {
+    color: #fff !important;
+    padding: 0 0 0 17px;
+    font-size: 14px !important;
+    font-family: 'Race_Sport' !important;
+}
+
+h5.shopbnb-text-4xl {
+    color: #fff !important;!i;!;
+    padding: 0 0 0 17px;
+    font-size: 14px !important;!i;!;
+    font-family: 'Race_Sport' !important;!i;!;
+}
+
+
+.shopbnb-w-fit.shopbnb-mx-auto.shopbnb-flex.shopbnb-align-middle.shopbnb-items-center.shopbnb-gap-3 {
+    display: none;
+}
