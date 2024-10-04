@@ -13,6 +13,12 @@ h2.banner__heading.inline-richtext.h0 {
   color: #00205b;
 }
 
+.video-background .content {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
 .video-background {
     display: flex;
     align-items: center;
