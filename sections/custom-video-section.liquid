@@ -1,8 +1,10 @@
 <div class="video-background">
-  <video autoplay muted loop>
-    <source src="{{ 'your-video-file.mp4' | asset_url }}" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  {% if section.settings.video_url %}
+    <video autoplay muted loop>
+      <source src="{{ section.settings.video_url }}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  {% endif %}
   <div class="content">
     <h2>{{ section.settings.heading }}</h2>
     <p>{{ section.settings.description }}</p>
@@ -34,7 +36,7 @@
       position: relative;
       z-index: 2;
       text-align: center;
-      color: white; /* Change text color as needed */
+      color: white; /* Adjust the text color as needed */
       padding: 20px;
   }
 </style>
@@ -43,6 +45,11 @@
 {
     "name": "Video Background",
     "settings": [
+        {
+            "type": "url",
+            "id": "video_url",
+            "label": "Video URL"
+        },
         {
             "type": "text",
             "id": "heading",
