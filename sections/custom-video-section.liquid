@@ -15,29 +15,52 @@
 <style>
   .video-background {
       position: relative;
+      width: 100%; /* Full width */
+      height: 600px; /* Adjust height as needed */
       overflow: hidden;
   }
 
   video {
       width: 100%;
-      height: auto;
+      height: 100%; /* Full height */
       position: absolute;
       top: 50%;
       left: 50%;
       min-width: 100%;
       min-height: 100%;
-      width: auto;
-      height: auto;
       z-index: 1;
       transform: translate(-50%, -50%);
+      object-fit: cover; /* Ensures the video covers the section */
   }
 
   .content {
       position: relative;
       z-index: 2;
-      text-align: center;
+      text-align: center; /* Center alignment */
       color: white; /* Adjust the text color as needed */
       padding: 20px;
+  }
+
+  .content h2,
+  .content p,
+  .content .custom-html {
+      margin: 0; /* Remove default margins */
+  }
+
+  /* Responsive alignment adjustments */
+  @media (min-width: 768px) {
+      .content {
+          text-align: left; /* Left alignment for larger screens */
+          padding: 20px 40px; /* Increased padding for larger screens */
+      }
+
+      .content h2 {
+          font-size: 2.5rem; /* Adjust heading size */
+      }
+
+      .content p {
+          font-size: 1.25rem; /* Adjust paragraph size */
+      }
   }
 </style>
 
