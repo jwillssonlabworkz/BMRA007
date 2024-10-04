@@ -26,6 +26,7 @@
     },
     "custom_video_section_JMKDPh": {
       "type": "custom-video-section",
+      "disabled": true,
       "settings": {
         "video_url": "https://cdn.shopify.com/videos/c/o/v/b6f172cc4e774f4fadce22368d29983e.mp4",
         "heading": "Barnwell Mountain Recreational Area",
