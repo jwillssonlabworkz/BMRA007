@@ -13,6 +13,11 @@ h2.banner__heading.inline-richtext.h0 {
   color: #00205b;
 }
 
+.video-background {
+    display: flex;
+    align-items: center;
+}
+
 .banner__text.rte.body p {
   width: 75%;
   color: #00205b;
