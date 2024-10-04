@@ -11,6 +11,7 @@
   "sections": {
     "video_banner_wq39MU": {
       "type": "video-banner",
+      "disabled": true,
       "custom_css": [
 
       ],
