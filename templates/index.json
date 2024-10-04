@@ -9,6 +9,30 @@
 */
 {
   "sections": {
+    "video_banner_wq39MU": {
+      "type": "video-banner",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading": "",
+        "fullwidth": true,
+        "autoplay": true,
+        "controller": false,
+        "self_hosted_video": "shopify://files/videos/Barnwell.mp4",
+        "custom_liquid": "<div class=\"banner__box content-container content-container--full-width-mobile color-scheme-3 gradient\"><h2 class=\"banner__heading inline-richtext h0\">\n              Barnwell Mountain Recreational Area\n            </h2><div class=\"banner__text rte body\">\n              <p>The park's electric camp has thirty and fifty amp hook-ups for recreational vehicles. These twenty pull through sites can accommodate  any length vehicle. Eight premium RV spaces are available just north of the electric camp.</p>\n            </div><div class=\"banner__buttons\"><a href=\"https://ingenious-development.myshopify.com/pages/cabins-category\" class=\"button button--primary\">Reserve Now <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"54\" height=\"95\" viewBox=\"0 0 54 95\" fill=\"none\">\n<path d=\"M5.65 94.9627C4.25 94.9627 2.75 94.4627 1.65 93.3627C-0.55 91.1627 -0.55 87.6627 1.65 85.4627L39.55 47.4627L1.65 9.56272C-0.55 7.36272 -0.55 3.86272 1.65 1.66272C3.85 -0.537282 7.35 -0.537282 9.55 1.56272L51.45 43.4627C52.55 44.5627 53.05 45.9627 53.05 47.4627C53.05 48.9627 52.45 50.3627 51.45 51.4627L9.55 93.3627C8.45 94.4627 7.05 94.9627 5.65 94.9627Z\" fill=\"white\"/>\n</svg> </a></div></div>",
+        "video_url": ""
+      }
+    },
+    "custom_video_section_JMKDPh": {
+      "type": "custom-video-section",
+      "settings": {
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/b6f172cc4e774f4fadce22368d29983e.mp4",
+        "heading": "Barnwell Mountain Recreational Area",
+        "description": "The park's electric camp has thirty and fifty amp hook-ups for recreational vehicles. These twenty pull through sites can accommodate  any length vehicle. Eight premium RV spaces are available just north of the electric camp.",
+        "custom_html": "<div class=\"banner__buttons\"><a href=\"https://ingenious-development.myshopify.com/pages/cabins-category\" class=\"button button--primary\">Reserve Now <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"54\" height=\"95\" viewbox=\"0 0 54 95\" fill=\"none\">\n<path d=\"M5.65 94.9627C4.25 94.9627 2.75 94.4627 1.65 93.3627C-0.55 91.1627 -0.55 87.6627 1.65 85.4627L39.55 47.4627L1.65 9.56272C-0.55 7.36272 -0.55 3.86272 1.65 1.66272C3.85 -0.537282 7.35 -0.537282 9.55 1.56272L51.45 43.4627C52.55 44.5627 53.05 45.9627 53.05 47.4627C53.05 48.9627 52.45 50.3627 51.45 51.4627L9.55 93.3627C8.45 94.4627 7.05 94.9627 5.65 94.9627Z\" fill=\"white\"></path>\n</svg> </a></div>"
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -56,93 +80,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
-      }
-    },
-    "video_banner_wq39MU": {
-      "type": "video-banner",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "heading": "",
-        "fullwidth": true,
-        "autoplay": true,
-        "controller": false,
-        "self_hosted_video": "shopify://files/videos/Barnwell.mp4",
-        "custom_liquid": "<div class=\"banner__box content-container content-container--full-width-mobile color-scheme-3 gradient\"><h2 class=\"banner__heading inline-richtext h0\">\n              Barnwell Mountain Recreational Area\n            </h2><div class=\"banner__text rte body\">\n              <p>The park's electric camp has thirty and fifty amp hook-ups for recreational vehicles. These twenty pull through sites can accommodate  any length vehicle. Eight premium RV spaces are available just north of the electric camp.</p>\n            </div><div class=\"banner__buttons\"><a href=\"https://ingenious-development.myshopify.com/pages/cabins-category\" class=\"button button--primary\">Reserve Now <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"54\" height=\"95\" viewBox=\"0 0 54 95\" fill=\"none\">\n<path d=\"M5.65 94.9627C4.25 94.9627 2.75 94.4627 1.65 93.3627C-0.55 91.1627 -0.55 87.6627 1.65 85.4627L39.55 47.4627L1.65 9.56272C-0.55 7.36272 -0.55 3.86272 1.65 1.66272C3.85 -0.537282 7.35 -0.537282 9.55 1.56272L51.45 43.4627C52.55 44.5627 53.05 45.9627 53.05 47.4627C53.05 48.9627 52.45 50.3627 51.45 51.4627L9.55 93.3627C8.45 94.4627 7.05 94.9627 5.65 94.9627Z\" fill=\"white\"/>\n</svg> </a></div></div>",
-        "video_url": ""
-      }
-    },
-    "image_with_text_MqwDBR": {
-      "type": "image-with-text",
-      "blocks": {
-        "caption_jQiEQD": {
-          "type": "caption",
-          "settings": {
-            "caption": "ABOUT US",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "heading_yTCCnq": {
-          "type": "heading",
-          "settings": {
-            "heading": "BMRA",
-            "heading_size": "h1"
-          }
-        },
-        "text_icKmdR": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Located high atop the Barnwell Mountains of East Texas is one of the state's most exciting motorized off-road parks - The Barnwell Mountain Recreational Area!</p>",
-            "text_style": "body"
-          }
-        },
-        "button_Dmarxq": {
-          "type": "button",
-          "settings": {
-            "button_label": "BOOK NOW",
-            "button_link": "shopify://pages/cabins-category",
-            "button_style_secondary": false
-          }
-        },
-        "textarea_3YN6ee": {
-          "type": "textarea",
-          "settings": {
-            "custom_liquid": ""
-          }
-        }
-      },
-      "block_order": [
-        "caption_jQiEQD",
-        "heading_yTCCnq",
-        "text_icKmdR",
-        "button_Dmarxq",
-        "textarea_3YN6ee"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Group_11.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 84,
-        "padding_bottom": 84
-      }
-    },
-    "custom_video_section_JMKDPh": {
-      "type": "custom-video-section",
-      "settings": {
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/b6f172cc4e774f4fadce22368d29983e.mp4",
-        "heading": "hello",
-        "description": "Your description goes here.",
-        "custom_html": "<h1>hello</h1>"
       }
     },
     "custom_liquid_mWq3jg": {
@@ -236,6 +173,69 @@
       ],
       "settings": {
         "include_margins": true
+      }
+    },
+    "image_with_text_MqwDBR": {
+      "type": "image-with-text",
+      "blocks": {
+        "caption_jQiEQD": {
+          "type": "caption",
+          "settings": {
+            "caption": "ABOUT US",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "heading_yTCCnq": {
+          "type": "heading",
+          "settings": {
+            "heading": "BMRA",
+            "heading_size": "h1"
+          }
+        },
+        "text_icKmdR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Located high atop the Barnwell Mountains of East Texas is one of the state's most exciting motorized off-road parks - The Barnwell Mountain Recreational Area!</p>",
+            "text_style": "body"
+          }
+        },
+        "button_Dmarxq": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK NOW",
+            "button_link": "shopify://pages/cabins-category",
+            "button_style_secondary": false
+          }
+        },
+        "textarea_3YN6ee": {
+          "type": "textarea",
+          "settings": {
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "caption_jQiEQD",
+        "heading_yTCCnq",
+        "text_icKmdR",
+        "button_Dmarxq",
+        "textarea_3YN6ee"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Group_11.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 84,
+        "padding_bottom": 84
       }
     },
     "custom_liquid_tkzPiL": {
@@ -442,14 +442,14 @@
     }
   },
   "order": [
-    "image_banner",
     "video_banner_wq39MU",
-    "image_with_text_MqwDBR",
     "custom_video_section_JMKDPh",
+    "image_banner",
     "custom_liquid_mWq3jg",
     "custom_liquid_PbV7eh",
     "rich_text_mtaEWw",
     "1727271829f97d6e94",
+    "image_with_text_MqwDBR",
     "custom_liquid_tkzPiL",
     "rich_text_MjX9Jy",
     "rich_text_9rnQYf",
