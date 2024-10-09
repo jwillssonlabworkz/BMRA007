@@ -8,9 +8,10 @@
 }
 
 h2.banner__heading.inline-richtext.h0 {
-  font-family: "Race_Sport";
-  font-size: 57px;
-  color: #00205b;
+    font-family: Race_Sport;
+    font-size: 57px;
+    color: #00205b;
+    text-shadow: -1px -1px 0 #FFE, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #FFF;
 }
 
 main#MainContent {
@@ -32,11 +33,6 @@ ul.list-menu.list-menu--inline li a span {
     align-items: center;
 }
 
-.header__heading-logo-wrapper img {
-    height: 40px !important;
-    width: 130px !important;
-    object-fit: cover !important;
-}
 
 
 .banner__text.rte.body p {
