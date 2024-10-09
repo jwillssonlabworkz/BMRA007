@@ -43,6 +43,11 @@ ul.list-menu.list-menu--inline li a span {
   font-weight: 400;
 }
 
+.header-wrapper.color-scheme-1.gradient.header-wrapper--border-bottom {
+    background: transparent;
+    border: none;
+}
+
 .banner__buttons a {
   background: #990000;
   border: none;
