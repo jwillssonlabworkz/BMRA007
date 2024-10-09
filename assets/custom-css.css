@@ -17,6 +17,9 @@ main#MainContent {
     margin: -100px 0 0 0 !important;
 }
 
+ul.list-menu.list-menu--inline li a span {
+    font-size: 12px;
+}
 
 .video-background .content {
     display: flex;
