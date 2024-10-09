@@ -15,7 +15,7 @@
         "heading_6nVrA3": {
           "type": "heading",
           "settings": {
-            "heading": "Where Would You Like To Stay?",
+            "heading": "About Us",
             "heading_size": "h1"
           }
         },
@@ -94,6 +94,7 @@
       "block_order": [
         "shopbnb_featured_listings_slider_7akq6V"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
