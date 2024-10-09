@@ -51,6 +51,17 @@ ul.list-menu.list-menu--inline li a span {
   color: #fff;
 }
 
+.rich-text__wrapper.rich-text__wrapper--center.page-width {
+    max-width: 1260px !important;!i;!;
+    width: 100% !important;!i;!;
+    margin: 0 auto;
+    padding: 0 !important;!i;!;
+}
+
+.rich-text__blocks.left {
+    width: 100% !important;!i;!;
+    max-width: 1190px;
+}
 
 div#shopify-section-sections--17740565545100__shogun_custom_html_cAm9An .container {
     padding: 0 0 70px 0;
