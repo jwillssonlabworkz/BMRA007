@@ -99,6 +99,242 @@
         "include_margins": true
       }
     },
+    "rich_text_fniJFN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ePtwQp": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Location</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_fPU6id": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Barnwell Mountain Recreational Area is located five miles North of Gilmer, TX on State Highway 155. Gilmer is home of the nationally famous Yamboree and features a historical museum, the Cherokee Rose Festival, art, antiques, and crafts shopping.<br/></p>"
+          }
+        },
+        "button_hJPeeM": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ePtwQp",
+        "text_fPU6id",
+        "button_hJPeeM"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_8gkVFL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UrEFB6": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Hours of Operation</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_zYMNem": {
+          "type": "text",
+          "settings": {
+            "text": "<p>BMRA is open every weekend from noon Thursday until 6:00PM Sunday unless otherwise noted on the park website. Everyone must exit the park by 6:00PM Sunday. The office is open from noon Thursday and 8:00AM Friday and Saturday until midnight and from Sunday 8:00AM until 6:00PM. Entry into the park after midnight is not allowed. The gate is closed from midnight until 8:00AM the following morning. The park may be closed during inclement weather. For date specific information, please watch the park's<a href=\"https://www.barnwellmountainra.com/events\">Upcoming Events</a>and<a href=\"https://www.barnwellmountainra.com/calendar\">Calendar</a>pages.<br/></p>"
+          }
+        },
+        "button_y7fgjn": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UrEFB6",
+        "text_zYMNem",
+        "button_y7fgjn"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_bYQqAP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rwNzMa": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Property Description</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_WQjCRA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>BMRA is the<a href=\"https://www.texasmotorizedtrails.com/\" target=\"_blank\">Texas Motorized Trail Coalition's </a>first property and was officially opened in July 2000. It has become one of the premier off-highway parks in the United States. BMRA is one of the largest projects funded principally using the Recreational Trails Program grant process.</p><p>Some of BMRA's amenities include full shower and bath facilities, several vault toilets throughout the property, rental cabins, and a well marked trail system utilizing unobtrusive trail signage. These signs are now being used at many off-road facilities.<br/><br/>This beautiful eighteen hundred fifty (1,850) acre park is a shining example of what TMTC and its members and volunteers can accomplish. TMTC and BMRA have been recognized by such organizations as:</p>"
+          }
+        },
+        "text_C3DMK8": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><a href=\"https://www.tpwd.state.tx.us/\" target=\"_blank\">Texas Parks & Wildlife</a></li><li><a href=\"https://www.sharetrails.org/\" target=\"_blank\">The Blue Ribbon Coalition</a></li><li><a href=\"https://www.treadlightly.org/\" target=\"_blank\">Tread Lightly!</a></li><li><a href=\"http://www.nohvcc.org/\" target=\"_blank\">National Off Highway Vehicle Conservation Council (NOHVCC)</a></li><li><a href=\"https://www.svia.org/\" target=\"_blank\">The ATV Safety Institute (ASI)</a></li><li><a href=\"http://www.amadirectlink.com/\" target=\"_blank\">American Motorcyclist Association</a></li><li><a href=\"https://www.ufwda.org/\" target=\"_blank\">United Four Wheel Drive Association</a></li></ul>"
+          }
+        },
+        "text_9qPXTE": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>and many regional and state organizations.<br/></strong></p>"
+          }
+        },
+        "button_Cnkn8A": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_rwNzMa",
+        "text_WQjCRA",
+        "text_C3DMK8",
+        "text_9qPXTE",
+        "button_Cnkn8A"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_tapYRA": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iBCPVq": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Surrounding Area - Gilmer, Texas, Upshur County</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_W7qTjN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nestled among the pine covered hills and lakes of Northeast Texas, Gilmer is the economic center of Upshur County (population 33,986). Gilmer is located 120 miles east of Dallas, 225 miles north of Houston and 80 miles west of Shreveport, Louisiana. Its location provides easy access to both Longview and Tyler. </p>",
+            "text_style": "body"
+          }
+        },
+        "button_hjN9qJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "textarea_7e6HEJ": {
+          "type": "textarea",
+          "settings": {
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_iBCPVq",
+        "text_W7qTjN",
+        "button_hjN9qJ",
+        "textarea_7e6HEJ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/gilmer.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_QHKJfJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ztrXKF": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_dGAJG7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gilmer is a community reflecting the values of small town America with an eye toward a managed and progressive future. The area's dual-based economy centers around industry and agriculture (beef, dairy, poultry and timber). The majority of Gilmer's workforce is employed locally or in surrounding communities.<br/><br/>Gilmer has a history closely entwined with the founding and early days of the Texas Republic more than 100 years ago. First settled by white men about 1835, this area, which became Upshur County a dozen years later, was filled with Cherokee Indians.<br/><br/>Gilmer's location was determined by a flood on Little Cypress Creek. First located near the creek, residents decided to change locations because of frequent floods. On the day of the election a flood kept voters north of the creek from getting to the polling place, so the south side voters won.<br/><br/>Gilmer's first court was held on Cherokee Trace under a big oak tree. Judge Oran Roberts, who later became a Texas governor, presided over this court a few years after the county was established by the legislature in 1846. A historical marker now marks this site.<br/><br/>Gilmer was located in 1846. The county was named for United Stated Secretary of State Able P. Upshur, and Gilmer was named for Capt. Thomas W. Gilmer, Navy Secretary. Both were killed in 1844 when a new Naval gun exploded during a demonstration aboard the USS Princeton on the Potomac.<br/><br/>In addition to becoming a leading trade center in northeast Texas before the Civil War, Gilmer became an educational center. In 1850 the Methodist Church organized a Male Institute and a Female Institute. In 1858 the Gilmer Masonic Lodge took over the Women's Institute, but the Civil War interrupted their plans for enlarging the school. After the war Morgan Looney, a Mason and one of the greatest of the early Texas educators, came here from Georgia and took over the Masonic School and established the Looney School. Two governors, Charles Culberson and Oran M. Roberts, were graduates. There were many other famous early Texas leaders who were students.<br/><br/>Gilmer has maintained a steady growth over the past years, but it was the discovery of the East Texas Oil Field which kept residents from feeling the full blow of the depression of the early thirties. On May 7, 1931, oil was found in the southeast portion of Upshur County giving the area a tremendous boost. A new Courthouse, the present one, was built in 1935, with $200,000 cash. That portion of the original East Texas Oil Field in Upshur County is now dying, but oil and gas have recently been discovered in other areas of the county, and many new industries have come in to take the place of oil as our principal source of income.</p>"
+          }
+        },
+        "button_zGWBt4": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ztrXKF",
+        "text_dGAJG7",
+        "button_zGWBt4"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "shogun-optimizer": {
       "type": "shogun-optimizer",
       "settings": {
@@ -110,6 +346,11 @@
     "shogun-helper",
     "main",
     "1727219087655af01e",
+    "rich_text_fniJFN",
+    "rich_text_8gkVFL",
+    "rich_text_bYQqAP",
+    "image_with_text_tapYRA",
+    "rich_text_QHKJfJ",
     "shogun-optimizer"
   ]
 }
