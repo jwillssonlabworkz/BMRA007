@@ -15,7 +15,7 @@
         "heading_6nVrA3": {
           "type": "heading",
           "settings": {
-            "heading": "Where Would You Like To Stay?",
+            "heading": "Upcoming Events",
             "heading_size": "h1"
           }
         },
@@ -57,8 +57,63 @@
         "show_text_below": true
       }
     },
+    "image_with_text_Bpq3n7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ThtDLX": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>February 29 - March 3, 2024 - Mega Run 2024</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_tc8PRY": {
+          "type": "text",
+          "settings": {
+            "text": "<p>DFW-TX4WD will be hosting their 23rd Annual Mega Run on February 29th - March 3rd at the park. The park will be closed during this event. For more information, contact the event host.<a href=\"https://www.facebook.com/dfwmegarun/\" target=\"_blank\">DFW-FWD</a></p>",
+            "text_style": "body"
+          }
+        },
+        "button_WCVGMK": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "textarea_QhGp3a": {
+          "type": "textarea",
+          "settings": {
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_ThtDLX",
+        "text_tc8PRY",
+        "button_WCVGMK",
+        "textarea_QhGp3a"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/scarr.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 84
+      }
+    },
     "shogun-helper": {
       "type": "shogun-helper",
+      "disabled": true,
       "settings": {
       }
     },
@@ -94,6 +149,7 @@
       "block_order": [
         "shopbnb_featured_listings_slider_7akq6V"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -106,6 +162,7 @@
   },
   "order": [
     "image_banner_JV7F6G",
+    "image_with_text_Bpq3n7",
     "shogun-helper",
     "main",
     "1727219087655af01e",
