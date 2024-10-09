@@ -32,6 +32,13 @@ ul.list-menu.list-menu--inline li a span {
     align-items: center;
 }
 
+.header__heading-logo-wrapper img {
+    height: 40px !important;
+    width: 130px !important;
+    object-fit: cover !important;
+}
+
+
 .banner__text.rte.body p {
   width: 75%;
   color: #00205b;
