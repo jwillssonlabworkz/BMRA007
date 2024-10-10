@@ -57,21 +57,13 @@
         "show_text_below": true
       }
     },
-    "custom_liquid_rfpfR3": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div data-id=\"13246\" class=\"lookfy-gallery\"></div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "17285916948950b717": {
       "type": "apps",
       "blocks": {
         "lookfy_gallery_lookfy_gallery_wUhVXf": {
           "type": "shopify://apps/lookfy-gallery/blocks/lookfy-gallery/596af5f6-9933-4730-95c2-f7d8d52a0c3e",
           "settings": {
+            "gallery_id": 13246,
             "dynamic_source": "",
             "title": "",
             "subtitle": "",
@@ -113,7 +105,6 @@
   },
   "order": [
     "image_banner_JV7F6G",
-    "custom_liquid_rfpfR3",
     "17285916948950b717",
     "shogun-helper",
     "main",
