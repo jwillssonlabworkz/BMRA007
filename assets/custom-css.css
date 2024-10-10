@@ -3,6 +3,10 @@
   justify-content: left;
 }
 
+body.gradient {
+    overflow-x: hidden;
+}
+
 .banner__box.content-container.content-container--full-width-mobile.color-scheme-3.gradient {
   max-width: 100% !important;
 }
