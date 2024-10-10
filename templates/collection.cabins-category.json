@@ -1,1 +1,74 @@
-{"sections":{"banner":{"type":"main-collection-banner","disabled":true,"settings":{"show_collection_description":true,"show_collection_image":false,"color_scheme":"scheme-1"}},"product-grid":{"type":"main-collection-product-grid","disabled":true,"settings":{"products_per_page":16,"columns_desktop":4,"color_scheme":"scheme-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":false,"show_vendor":false,"show_rating":false,"quick_add":"none","enable_filtering":true,"filter_type":"horizontal","enable_sorting":true,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"17272183834c5707fa":{"type":"apps","blocks":{"shopbnb_featured_listings_slider_hEaWce":{"type":"shopify:\/\/apps\/shopbnb\/blocks\/featured_listings_slider\/65113cc9-f2c4-4148-910d-0029b0a97748","settings":{"heading":"Categories","listings":["cabins","premium-rv-spaces","rv-spaces"],"show-badge":false,"is-slider":false,"autoplay":false,"listing-per-row":4,"container-width":"fullWidth"}}},"block_order":["shopbnb_featured_listings_slider_hEaWce"],"settings":{"include_margins":true}}},"order":["banner","product-grid","17272183834c5707fa"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17272183834c5707fa": {
+      "type": "apps",
+      "blocks": {
+        "shopbnb_featured_listings_slider_hEaWce": {
+          "type": "shopify://apps/shopbnb/blocks/featured_listings_slider/65113cc9-f2c4-4148-910d-0029b0a97748",
+          "settings": {
+            "listings": [
+              "cabins",
+              "premium-rv-spaces",
+              "rv-spaces"
+            ],
+            "show-badge": false,
+            "is-slider": false,
+            "autoplay": false,
+            "listing-per-row": 4,
+            "container-width": "fullWidth"
+          }
+        }
+      },
+      "block_order": [
+        "shopbnb_featured_listings_slider_hEaWce"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "17272183834c5707fa"
+  ]
+}
