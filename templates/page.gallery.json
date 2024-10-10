@@ -15,14 +15,14 @@
         "heading_6nVrA3": {
           "type": "heading",
           "settings": {
-            "heading": "Where Would You Like To Stay?",
+            "heading": "Photo Gallery",
             "heading_size": "h1"
           }
         },
         "text_xhVT63": {
           "type": "text",
           "settings": {
-            "text": "The calendar shows the schedule for Barnwell Mountain and the rental cabins, bunkhouses, and RV space availability. To make a cabin, bunkhouse or RV space reservation, select your arrival date by clicking on the day and then click the 'Make a Reservation' button below the calendar. If no cabins, bunkhouses, or RV spaces are available, the button will not appear. If you have questions regarding reservations or need to change a reservation, please <a href=\"https://www.barnwellmountainra.com/contact\">contact the office</a> during office business hours from noon Thursday or 8:00AM Friday and Saturday to midnight and 8:00AM to 6:00PM Sunday.",
+            "text": "",
             "text_style": "subtitle"
           }
         },
@@ -57,6 +57,15 @@
         "show_text_below": true
       }
     },
+    "custom_liquid_HM9HXU": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div data-id=\"13246\" class=\"lookfy-gallery\"></div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "shogun-helper": {
       "type": "shogun-helper",
       "settings": {
@@ -70,34 +79,6 @@
         "padding_bottom": 28
       }
     },
-    "1727219087655af01e": {
-      "type": "apps",
-      "blocks": {
-        "shopbnb_featured_listings_slider_7akq6V": {
-          "type": "shopify://apps/shopbnb/blocks/featured_listings_slider/65113cc9-f2c4-4148-910d-0029b0a97748",
-          "settings": {
-            "heading": "Cabins Categories",
-            "listings": [
-              "cabins",
-              "deposit",
-              "premium-rv-spaces",
-              "rv-spaces"
-            ],
-            "show-badge": false,
-            "is-slider": false,
-            "autoplay": false,
-            "listing-per-row": 3,
-            "container-width": "fullWidth"
-          }
-        }
-      },
-      "block_order": [
-        "shopbnb_featured_listings_slider_7akq6V"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "shogun-optimizer": {
       "type": "shogun-optimizer",
       "settings": {
@@ -106,9 +87,9 @@
   },
   "order": [
     "image_banner_JV7F6G",
+    "custom_liquid_HM9HXU",
     "shogun-helper",
     "main",
-    "1727219087655af01e",
     "shogun-optimizer"
   ]
 }
