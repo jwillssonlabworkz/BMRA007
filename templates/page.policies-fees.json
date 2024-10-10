@@ -9,6 +9,15 @@
 */
 {
   "sections": {
+    "custom_video_section_PhHjtw": {
+      "type": "custom-video-section",
+      "settings": {
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/b6f172cc4e774f4fadce22368d29983e.mp4",
+        "heading": "Policies & Fees",
+        "description": "",
+        "custom_html": ""
+      }
+    },
     "image_banner_JV7F6G": {
       "type": "image-banner",
       "blocks": {
@@ -120,6 +129,7 @@
     }
   },
   "order": [
+    "custom_video_section_PhHjtw",
     "image_banner_JV7F6G",
     "multicolumn_MYkxTc",
     "shogun-helper",
