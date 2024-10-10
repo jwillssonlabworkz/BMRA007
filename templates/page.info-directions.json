@@ -15,7 +15,7 @@
         "heading_6nVrA3": {
           "type": "heading",
           "settings": {
-            "heading": "Where Would You Like To Stay?",
+            "heading": "Info & Directions",
             "heading_size": "h1"
           }
         },
@@ -70,32 +70,92 @@
         "padding_bottom": 28
       }
     },
-    "1727219087655af01e": {
-      "type": "apps",
+    "multirow_aG63fq": {
+      "type": "multirow",
       "blocks": {
-        "shopbnb_featured_listings_slider_7akq6V": {
-          "type": "shopify://apps/shopbnb/blocks/featured_listings_slider/65113cc9-f2c4-4148-910d-0029b0a97748",
+        "row_HQDDyV": {
+          "type": "row",
           "settings": {
-            "heading": "Cabins Categories",
-            "listings": [
-              "cabins",
-              "deposit",
-              "premium-rv-spaces",
-              "rv-spaces"
-            ],
-            "show-badge": false,
-            "is-slider": false,
-            "autoplay": false,
-            "listing-per-row": 3,
-            "container-width": "fullWidth"
+            "image": "shopify://shop_images/map_property.jpg",
+            "caption": "",
+            "heading": "<strong>Property Location</strong>",
+            "text": "<p>From Gilmer turn east onto State Highway 155 North (this is a stoplight). Go approximately five (5) miles and as you start to climb a hill look for a brown sign on the left that says \"Barnwell Mountain Recreation Area\" and the \"Barnwell Mountain ORV Park\" sign on the right. You have to watch for the turn off because it is at the crest of the hill and you will miss it if you are not paying attention. This brown sign is directly across the highway from the entrance. Turn right, go through the gate and up the hill.... you can't miss it.<br/></p><h4>Barnwell Mountain Recreation Area<br/>6284 N. SH 155<br/>Gilmer, TX 75645</h4>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_D3R7Fj": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/map_mc.jpg",
+            "caption": "",
+            "heading": "<strong>Park Hours</strong>",
+            "text": "<p>Our office is open from noon Thursdays until 10:00PM and 8:00AM on Fridays and Saturdays until midnight. Entry into the park after the office closes is not allowed. The park closes Sundays at 6:00PM except for extended holiday weekends.<br/></p><h1><strong>Reservations</strong></h1><p>Barnwell Mountain has six cabins and five bunkhouses available for rent. See the<a href=\"https://www.barnwellmountainra.com/calendar\">Calendar and Reservations</a>link above for availability and reservations. Guests are encouraged to make reservations early and on-line rather than wait until the office is open Thursday through Sunday. Our cabins are popular and are normally booked well in advance.</p><h2><strong>Electric RV Campground</strong></h2><p>The Electric RV Campground is located approximately one mile south of the office within the park. We have eighteen sites that provide a single 30 amp plug and can accomodate any size RV. No water or sewer connections are available but a dump station is available. Water is available at the park office or at the pavilion between the office and the RV camp ground.</p><p>The Premium RV Campground is located approximately 3/4 mile south of the office within the park. We have eight sites that provide a single connection up to a 50 amp rating. Each space can accomodate any size RV but spaces 7 and 8 should be limited to 34 feet. Water and sewer connections are available.</p>",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "shopbnb_featured_listings_slider_7akq6V"
+        "row_HQDDyV",
+        "row_D3R7Fj"
       ],
       "settings": {
-        "include_margins": true
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_NxUqcp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bPF4T8": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_baE4cc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All RV sites may be reserved on the <a href=\"https://www.barnwellmountainra.com/calendar\">Calendar and Reserverations</a> page.</p><p>The RV sites are designed for a single RV or camping trailer electrial connection. Sharing of or tampering with the electrical connection box is prohibited. Each connection box requires a key to access. Vistors can select a camp site and then return to the office for the required key. A key deposit of $15 is charged. Campers may only occupy one space. Any RV blocking more than one space will be asked to move.</p><p>Camping (Cabin, RV, or primitive) implies park usage fees for two days. Visitors leaving the park before 9:00AM may receive a one day park pass as a partial refund by stopping at the office.</p><p>Entry into the park after midnight is not allowed. The office and gate are closed from midnight until 8:00AM the following morning.</p><h2><strong>Cabin and RV Spaces during Closed Park Events</strong></h2><p>Some closed park event organizers choose to manage cabin and RV space reservations themselves. Others allow BMRA to manage the reservations. If our reservation page for the event date states simply that the park is \"scheduled to be closed\", contact the event host regarding reservations.<br/></p><h2><strong>Local Hotel Accommodations</strong></h2><p><strong>Executive Inn</strong>920 U.S. Hwy 271 South<br/>Gilmer, TX 75644<br/>903-843-6099<br/><br/>Executive Inn of Gilmer, Texas is conveniently located on Hwy 271. Whether you are traveling to Gilmer for business or pleasure you will find our comfortable rooms and friendly staff waiting to make your visit enjoyable.<br/><br/><br/><strong>Gilmer Inn</strong>1018 U.S. Hwy 271 South<br/>Gilmer, TX 75644<br/>903-843-3033</p><p>Gilmer Inn is a locally owned and operated hotel in Gilmer, Tx that offers comfortable travel accommodations for your family, business, and leisure traveler's vacation. We provide excellent customer service at lower rates so you'll feel at home--quality service with a smile. Our hotel provides you with quiet and comfortable rooms that are always clean and spacious.</p><h2><strong>Local Phone Numbers and Emergency Information</strong></h2><p><strong>Upshur County Chamber Of Commerce</strong> - 903.843.2413<br/><strong>Upshur County Sheriff</strong> - 903.843.2541<br/><strong>Gladewater Police Dept.</strong> - 903.237.1199<br/><strong>Upshur County Justice of the Peace</strong> - 903.843.5023<br/><strong>Poison Control</strong> - 800.764.7661<br/><strong>Fire Department</strong> - 903.843.3225<br/><strong>Upshur County Animal Control</strong> - 903.237.4530<br/><strong>ETMC Ambulance</strong> - 903.843.5641<br/><strong>Gilmer City Hall</strong> - 903.843.2552</p><h2><strong>Weather Closures</strong></h2><p>If the park is to be closed on a scheduled weekend because of inclement weather, a decision will be made by Thursday of the week and will clearly posted on the home page. If for some reason you find Barnwell Mountain has been closed and the TMTC calendar does not indicate a scheduled closed park event, please <a href=\"https://www.barnwellmountainra.com/contact\">contact us</a>.</p>"
+          }
+        },
+        "button_XKq3Tb": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_bPF4T8",
+        "text_baE4cc",
+        "button_XKq3Tb"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "shogun-optimizer": {
@@ -108,7 +168,8 @@
     "image_banner_JV7F6G",
     "shogun-helper",
     "main",
-    "1727219087655af01e",
+    "multirow_aG63fq",
+    "rich_text_NxUqcp",
     "shogun-optimizer"
   ]
 }
