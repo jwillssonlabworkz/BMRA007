@@ -45,6 +45,7 @@
         "shopbnb_featured_listings_slider_hEaWce": {
           "type": "shopify://apps/shopbnb/blocks/featured_listings_slider/65113cc9-f2c4-4148-910d-0029b0a97748",
           "settings": {
+            "heading": "Categories",
             "listings": [
               "cabins",
               "premium-rv-spaces",
