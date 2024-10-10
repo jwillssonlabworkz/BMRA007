@@ -56,14 +56,17 @@
             "autoplay": false,
             "listing-per-row": 4,
             "container-width": "fullWidth"
+            
           }
         }
       },
       "block_order": [
-        "shopbnb_featured_listings_slider_hEaWce"
+        "shopbnb_featured_listings_slider_hEaWce",
+        
       ],
       "settings": {
-        "include_margins": true
+        "include_margins": true,
+       
       }
     }
   },
