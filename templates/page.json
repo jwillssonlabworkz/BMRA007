@@ -52,6 +52,7 @@
         "text_xhVT63",
         "buttons_AfgLDG"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Rectangle_5_1.png",
         "image_overlay_opacity": 20,
