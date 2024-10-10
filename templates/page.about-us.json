@@ -9,6 +9,15 @@
 */
 {
   "sections": {
+    "custom_video_section_44dHmf": {
+      "type": "custom-video-section",
+      "settings": {
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/b6f172cc4e774f4fadce22368d29983e.mp4",
+        "heading": "About us",
+        "description": "",
+        "custom_html": ""
+      }
+    },
     "image_banner_JV7F6G": {
       "type": "image-banner",
       "blocks": {
@@ -43,6 +52,7 @@
         "text_xhVT63",
         "buttons_AfgLDG"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Rectangle_5_1.png",
         "image_overlay_opacity": 0,
@@ -345,6 +355,7 @@
     }
   },
   "order": [
+    "custom_video_section_44dHmf",
     "image_banner_JV7F6G",
     "shogun-helper",
     "main",
