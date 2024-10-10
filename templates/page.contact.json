@@ -9,8 +9,18 @@
 */
 {
   "sections": {
+    "custom_video_section_dGmGK6": {
+      "type": "custom-video-section",
+      "settings": {
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/b6f172cc4e774f4fadce22368d29983e.mp4",
+        "heading": "Contac us",
+        "description": "",
+        "custom_html": ""
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 100,
         "padding_bottom": 0
@@ -28,6 +38,7 @@
     }
   },
   "order": [
+    "custom_video_section_dGmGK6",
     "main",
     "form"
   ]
