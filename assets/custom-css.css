@@ -11,6 +11,10 @@ svg.icon {
     color: red;
 }
 
+.banner__media.media.scroll-trigger.animate--fade-in {
+    height: 330px;
+}
+
 .banner__box.content-container.content-container--full-width-mobile.color-scheme-3.gradient {
   max-width: 100% !important;
 }
