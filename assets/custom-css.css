@@ -31,6 +31,9 @@ h2.banner__heading.inline-richtext.h0 {
   
 }
 
+.banner__content.banner__content--middle-left.page-width.scroll-trigger.animate--slide-in {
+    height: 330px;
+}
 
 ul.list-menu.list-menu--inline li a span {
     font-size: 12px !important;
