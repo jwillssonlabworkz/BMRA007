@@ -15,6 +15,24 @@ svg.icon {
     color: red;
 }
 
+
+.column img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.three-column-section .column h2 {
+    margin: 0;
+    font-size: 28px;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+.three-column-section .column p {
+    font-size: 13px !important;!i;!;
+}
+
 .banner__media.media.scroll-trigger.animate--fade-in {
     height: 330px;
 }
