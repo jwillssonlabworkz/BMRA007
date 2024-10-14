@@ -327,6 +327,60 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_ehGtkH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_jxX7kH": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Rock Hard Jeep Fest</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_kAApKR": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>location</strong> : Barnwell Mountain Recreation Area</p><p><strong>start date : </strong>2024-04-11T00:00:00.000Z</p><p><strong>end date : </strong>2024-04-14T23:59:59.999Z</p><p>A thrilling event for Jeep enthusiasts featuring various off-road challenges.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_8JBGXp": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "textarea_X3XUW7": {
+          "type": "textarea",
+          "settings": {
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_jxX7kH",
+        "text_kAApKR",
+        "button_8JBGXp",
+        "textarea_X3XUW7"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/RockHard.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "shogun-helper": {
       "type": "shogun-helper",
       "disabled": true,
@@ -383,6 +437,7 @@
     "image_with_text_abqFB8",
     "image_with_text_ftTWLC",
     "image_with_text_m4TmQM",
+    "image_with_text_ehGtkH",
     "shogun-helper",
     "main",
     "1727219087655af01e",
