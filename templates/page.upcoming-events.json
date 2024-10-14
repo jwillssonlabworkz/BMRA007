@@ -111,6 +111,222 @@
         "padding_bottom": 84
       }
     },
+    "image_with_text_p4irLE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_XKaQbY": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Mega Run 2024</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_g6bPQH": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>location</strong> : Barnwell Mountain Recreation Area</p><p><strong>start date : 2024-02-29T00:00:00.000Z</strong></p><p><strong>end date : 2024-02-29T00:00:00.000Z</strong></p><p>DFW-TX4WD will be hosting their 23rd Annual Mega Run. The park will be closed during this event.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_3zCUtB": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "textarea_pCMVbL": {
+          "type": "textarea",
+          "settings": {
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_XKaQbY",
+        "text_g6bPQH",
+        "button_3zCUtB",
+        "textarea_pCMVbL"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/jeep.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_abqFB8": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_F6Jm9P": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Lone Star Toyota Jamboree</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_REW8bz": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>location</strong> : Barnwell Mountain Recreation Area</p><p><strong>start date : 2024-02-29T00:00:00.000Z</strong></p><p><strong>end date : 2024-02-29T00:00:00.000Z</strong></p><p>Toyota lovers will enjoy some great Texas-style outdoor fun and camaraderie. The park will be closed to the public during this event.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_HgqM6b": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "textarea_z4r96e": {
+          "type": "textarea",
+          "settings": {
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_F6Jm9P",
+        "text_REW8bz",
+        "button_HgqM6b",
+        "textarea_z4r96e"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/ttr.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_ftTWLC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Vizm6f": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>South Central Area Rover Rally (SCARR)</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_zTkj94": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>location</strong> : Barnwell Mountain Recreation Area</p><p><strong>start date : </strong>2024-04-11T00:00:00.000Z</p><p><strong>end date : </strong>2024-04-14T23:59:59.999Z</p><p>Land Rover enthusiasts from around the region will gather for the 2024 SCARR hosted by the Texas Rovers. The park will be closed to the public during this event.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_JRYede": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "textarea_bk68KP": {
+          "type": "textarea",
+          "settings": {
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Vizm6f",
+        "text_zTkj94",
+        "button_JRYede",
+        "textarea_bk68KP"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/scarr_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_m4TmQM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pQaaV3": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Iron Mountain Enduro</strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_tgnzRr": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>location</strong> : Barnwell Mountain Recreation Area</p><p><strong>start date : </strong>2024-04-11T00:00:00.000Z</p><p><strong>end date : </strong>2024-04-14T23:59:59.999Z</p><p>The Texas State Championship Enduro Circuit will sanction the Iron Mountain Enduro. The park will be closed during this event.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_EPnJBC": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "textarea_4zXTc9": {
+          "type": "textarea",
+          "settings": {
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_pQaaV3",
+        "text_tgnzRr",
+        "button_EPnJBC",
+        "textarea_4zXTc9"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/holiday.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "shogun-helper": {
       "type": "shogun-helper",
       "disabled": true,
@@ -163,6 +379,10 @@
   "order": [
     "image_banner_JV7F6G",
     "image_with_text_Bpq3n7",
+    "image_with_text_p4irLE",
+    "image_with_text_abqFB8",
+    "image_with_text_ftTWLC",
+    "image_with_text_m4TmQM",
     "shogun-helper",
     "main",
     "1727219087655af01e",
