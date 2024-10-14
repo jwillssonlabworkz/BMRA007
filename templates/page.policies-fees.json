@@ -44,7 +44,7 @@
         "buttons_AfgLDG"
       ],
       "settings": {
-        "image": "shopify://shop_images/Rectangle_5_1.png",
+        "image": "shopify://shop_images/image.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-left",
