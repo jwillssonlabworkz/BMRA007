@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "video_banner_wq39MU": {
@@ -28,7 +28,7 @@
     "custom_video_section_JMKDPh": {
       "type": "custom-video-section",
       "settings": {
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/b6f172cc4e774f4fadce22368d29983e.mp4",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/5d534dd094ec4011874fcc9e15decf0c.mp4",
         "heading": "Barnwell Mountain Recreational Area",
         "description": "The park's electric camp has thirty and fifty amp hook-ups for recreational vehicles. These twenty pull through sites can accommodate  any length vehicle. Eight premium RV spaces are available just north of the electric camp.",
         "custom_html": "<div class=\"banner__buttons\"><a href=\"https://ingenious-development.myshopify.com/pages/cabins-category\" class=\"button button--primary\">Reserve Now <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"54\" height=\"95\" viewbox=\"0 0 54 95\" fill=\"none\">\n<path d=\"M5.65 94.9627C4.25 94.9627 2.75 94.4627 1.65 93.3627C-0.55 91.1627 -0.55 87.6627 1.65 85.4627L39.55 47.4627L1.65 9.56272C-0.55 7.36272 -0.55 3.86272 1.65 1.66272C3.85 -0.537282 7.35 -0.537282 9.55 1.56272L51.45 43.4627C52.55 44.5627 53.05 45.9627 53.05 47.4627C53.05 48.9627 52.45 50.3627 51.45 51.4627L9.55 93.3627C8.45 94.4627 7.05 94.9627 5.65 94.9627Z\" fill=\"white\"></path>\n</svg> </a></div>"
