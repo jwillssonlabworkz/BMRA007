@@ -35,6 +35,7 @@ h2.banner__heading.inline-richtext.h0 {
 ul.list-menu.list-menu--inline li a span {
     font-size: 12px !important;
     text-shadow: -1px -1px 0 #b7b7b7, -1px 1px 0 #d5cece, 0px 0px 0 #fff, 1px 0px 0 #FFF !important;
+   font-weight:600;
 }
 
 main#MainContent {
