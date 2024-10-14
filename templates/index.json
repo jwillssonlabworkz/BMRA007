@@ -150,6 +150,20 @@
         "padding_bottom": 52
       }
     },
+    "three_columns_ie7g4C": {
+      "type": "three-columns",
+      "settings": {
+        "column1_image": "shopify://shop_images/holiday.jpg",
+        "column1_title": "Iron Mountain Enduro",
+        "column1_description": "The Texas State Championship Enduro Circuit will sanction the Iron Mountain Enduro. The park will be closed during this event.",
+        "column2_image": "shopify://shop_images/ttr.jpg",
+        "column2_title": "Lone Star Toyota Jamboree",
+        "column2_description": "Toyota lovers will enjoy some great Texas-style outdoor fun and camaraderie. The park will be closed to the public during this event.",
+        "column3_image": "shopify://shop_images/jeep.png",
+        "column3_title": "Mega Run 2024",
+        "column3_description": "DFW-TX4WD will be hosting their 23rd Annual Mega Run. The park will be closed during this event."
+      }
+    },
     "1727271829f97d6e94": {
       "type": "apps",
       "blocks": {
@@ -450,6 +464,7 @@
     "custom_liquid_mWq3jg",
     "custom_liquid_PbV7eh",
     "rich_text_mtaEWw",
+    "three_columns_ie7g4C",
     "1727271829f97d6e94",
     "image_with_text_MqwDBR",
     "custom_liquid_tkzPiL",
