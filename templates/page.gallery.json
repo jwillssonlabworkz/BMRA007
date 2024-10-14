@@ -57,15 +57,6 @@
         "show_text_below": true
       }
     },
-    "custom_video_section_aiKNWR": {
-      "type": "custom-video-section",
-      "settings": {
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/b6f172cc4e774f4fadce22368d29983e.mp4",
-        "heading": "Photo Gallery",
-        "description": "",
-        "custom_html": ""
-      }
-    },
     "image_banner_JV7F6G": {
       "type": "image-banner",
       "blocks": {
@@ -163,7 +154,6 @@
   },
   "order": [
     "image_banner_PK3fMD",
-    "custom_video_section_aiKNWR",
     "image_banner_JV7F6G",
     "17285916948950b717",
     "shogun-helper",
