@@ -1,6 +1,100 @@
+<!-- Section schema for customization in Shopify editor -->
 {% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
+{
+  "name": "Three Column Section",
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "column1_image",
+      "label": "Column 1 Image"
+    },
+    {
+      "type": "text",
+      "id": "column1_title",
+      "label": "Column 1 Title",
+      "default": "Title 1"
+    },
+    {
+      "type": "textarea",
+      "id": "column1_description",
+      "label": "Column 1 Description",
+      "default": "Description for the first column goes here."
+    },
+    {
+      "type": "image_picker",
+      "id": "column2_image",
+      "label": "Column 2 Image"
+    },
+    {
+      "type": "text",
+      "id": "column2_title",
+      "label": "Column 2 Title",
+      "default": "Title 2"
+    },
+    {
+      "type": "textarea",
+      "id": "column2_description",
+      "label": "Column 2 Description",
+      "default": "Description for the second column goes here."
+    },
+    {
+      "type": "image_picker",
+      "id": "column3_image",
+      "label": "Column 3 Image"
+    },
+    {
+      "type": "text",
+      "id": "column3_title",
+      "label": "Column 3 Title",
+      "default": "Title 3"
+    },
+    {
+      "type": "textarea",
+      "id": "column3_description",
+      "label": "Column 3 Description",
+      "default": "Description for the third column goes here."
+    }
+  ],
+  "presets": [
+    {
+      "name": "Three Column Section",
+      "category": "Custom sections"
+    }
+  ]
+}
 {% endschema %}
+
+<!-- HTML structure for the three-column section -->
+<div class="three-column-section">
+  <div class="column">
+    <img src="{{ section.settings.column1_image | img_url: 'medium' }}" alt="{{ section.settings.column1_title }}">
+    <h2>{{ section.settings.column1_title }}</h2>
+    <p>{{ section.settings.column1_description }}</p>
+  </div>
+  <div class="column">
+    <img src="{{ section.settings.column2_image | img_url: 'medium' }}" alt="{{ section.settings.column2_title }}">
+    <h2>{{ section.settings.column2_title }}</h2>
+    <p>{{ section.settings.column2_description }}</p>
+  </div>
+  <div class="column">
+    <img src="{{ section.settings.column3_image | img_url: 'medium' }}" alt="{{ section.settings.column3_title }}">
+    <h2>{{ section.settings.column3_title }}</h2>
+    <p>{{ section.settings.column3_description }}</p>
+  </div>
+</div>
+
+<style>
+.three-column-section {
+  display: flex;
+  justify-content: space-between;
+}
+.column {
+  width: 30%;
+  text-align: center;
+}
+.column img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+</style>
