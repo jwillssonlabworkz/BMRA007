@@ -164,6 +164,48 @@
         "column3_description": "DFW-TX4WD will be hosting their 23rd Annual Mega Run. The park will be closed during this event."
       }
     },
+    "rich_text_dandWk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_r4T8fK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cabins Categories",
+            "heading_size": "h1"
+          }
+        },
+        "text_jtGUBm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The calendar shows the schedule for Barnwell Mountain and the rental cabins, bunkhouses, and RV space availability. To make a cabin, bunkhouse or RV space reservation, select your arrival date by clicking on the day and then click the 'Make a Reservation' button below the calendar. If no cabins, bunkhouses, or RV spaces are available, the button will not appear. If you have questions regarding reservations or need to change a reservation, please contact the office during office business hours from noon Thursday or 8:00AM Friday and Saturday to midnight and 8:00AM to 6:00PM Sunday.</p>"
+          }
+        },
+        "button_UA9MyF": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_r4T8fK",
+        "text_jtGUBm",
+        "button_UA9MyF"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 64,
+        "padding_bottom": 0
+      }
+    },
     "1727271829f97d6e94": {
       "type": "apps",
       "blocks": {
@@ -465,6 +507,7 @@
     "custom_liquid_PbV7eh",
     "rich_text_mtaEWw",
     "three_columns_ie7g4C",
+    "rich_text_dandWk",
     "1727271829f97d6e94",
     "image_with_text_MqwDBR",
     "custom_liquid_tkzPiL",
