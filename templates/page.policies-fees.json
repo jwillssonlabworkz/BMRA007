@@ -1,23 +1,14 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
-    "custom_video_section_PhHjtw": {
-      "type": "custom-video-section",
-      "settings": {
-        "video_url": "https://cdn.shopify.com/videos/c/o/v/b6f172cc4e774f4fadce22368d29983e.mp4",
-        "heading": "Policies & Fees",
-        "description": "",
-        "custom_html": ""
-      }
-    },
     "image_banner_JV7F6G": {
       "type": "image-banner",
       "blocks": {
@@ -52,12 +43,11 @@
         "text_xhVT63",
         "buttons_AfgLDG"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Rectangle_5_1.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "",
@@ -130,7 +120,6 @@
     }
   },
   "order": [
-    "custom_video_section_PhHjtw",
     "image_banner_JV7F6G",
     "multicolumn_MYkxTc",
     "shogun-helper",
