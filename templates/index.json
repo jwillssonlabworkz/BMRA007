@@ -103,6 +103,7 @@
     },
     "custom_liquid_PbV7eh": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div class=\"elfsight-sapp-4f928c12-be39-4d61-8441-6f99644c880d\"></div>",
         "color_scheme": "",
