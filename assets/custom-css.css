@@ -7,6 +7,10 @@ body.gradient {
     overflow-x: hidden;
 }
 
+h3.layer-item.layer-type-text.layer-action-url {
+    display: none;
+}
+
 svg.icon {
     color: red;
 }
