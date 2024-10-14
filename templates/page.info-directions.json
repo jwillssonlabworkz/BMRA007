@@ -44,6 +44,7 @@
         "buttons_r3UxjG"
       ],
       "settings": {
+        "image": "shopify://shop_images/image.png",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-left",
