@@ -79,6 +79,7 @@ ul.list-menu.list-menu--inline li a span {
     display: flex;
     flex-direction: column;
     gap: 30px;
+    margin: 0 12rem;
 }
 
 .video-background {
