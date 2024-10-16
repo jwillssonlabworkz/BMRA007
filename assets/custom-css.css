@@ -267,6 +267,9 @@ h2.rich-text__heading.rte.inline-richtext.h1.scroll-trigger.animate--slide-in {
     clip-path: polygon(0 0, 100% 0, 87% 100%, 0% 100%);
 }
 
+.shopbnb-location-section.shopbnb-w-full.shopbnb-flex.shopbnb-flex-col {
+    display: none;
+}
 
 .content .custom-video-section-p {
     width: 75%;
