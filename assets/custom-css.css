@@ -61,7 +61,8 @@ h2.banner__heading.inline-richtext.h0 {
 }
 
 ul.list-menu.list-menu--inline li a span {
-    font-size: 12px !important;
+    font-size: 11px !important;
+    text-transform: uppercase !important;
    
    font-weight:600 !important;
 }
